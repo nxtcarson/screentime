@@ -13,13 +13,25 @@ A modern, elegant Windows application that tracks and analyzes your application 
 - **Bulk Actions**: Select multiple items with shift-click support
 - **Data Management**: Delete unwanted records
 
-## Requirements
+## Installation
+
+### Option 1: Download the Installer
+
+1. Go to the [Releases](https://github.com/nxtcarson/screentime/releases) page
+2. Download the latest `ScreenTimeMonitorSetup.exe` file
+3. Run the installer and follow the prompts
+4. Choose whether to create a desktop shortcut and run on startup
+5. Launch the application
+
+### Option 2: Build from Source
+
+#### Requirements
 
 - Windows 10/11
 - .NET 8.0 SDK or Runtime
 - SQLite
 
-## Setup & Running
+#### Steps
 
 1. Clone the repository:
 ```bash
